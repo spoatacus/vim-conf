@@ -82,3 +82,5 @@ set wrap        " Wrap lines
 """""""""""""""""""""""""""""
 let mapleader = ","
 let g:mapleader = ","
+
+map <leader>d :NERDTreeToggle<cr>
