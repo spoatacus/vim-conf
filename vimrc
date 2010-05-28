@@ -42,6 +42,8 @@ set t_vb=
 
 set guioptions-=T   " Disable the toolbar
 
+set lines=55 columns=100    " Set initial size
+
 
 """""""""""""""""""""""""""""
 " Colors and Fonts
