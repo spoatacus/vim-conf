@@ -42,7 +42,9 @@ set t_vb=
 
 set guioptions-=T   " Disable the toolbar
 
-set lines=55 columns=100    " Set initial size
+if has("gui_running")
+    set lines=55 columns=100    " Set initial size
+endif
 
 
 """""""""""""""""""""""""""""
