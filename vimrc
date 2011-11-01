@@ -54,6 +54,8 @@ set encoding=utf8
 
 colorscheme wombat
 
+set guifont=Ubuntu\ Mono\ 12
+
 
 """""""""""""""""""""""""""""
 " File and backups
@@ -66,7 +68,6 @@ set noswapfile
 """""""""""""""""""""""""""""
 " Tab, indent
 """""""""""""""""""""""""""""
-set expandtab
 set shiftwidth=4
 set tabstop=4
 set smarttab
